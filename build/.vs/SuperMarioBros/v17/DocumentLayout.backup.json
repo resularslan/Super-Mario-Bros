@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Resul Arslan\\Desktop\\s\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{163D4513-4147-3A63-9C74-D69CF77808F0}|ALL_BUILD.vcxproj|C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F116EEBA-9FFF-3715-BC00-D64A0E4716B0}|SuperMarioBros.vcxproj|C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\scripts\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\..\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\CMakeLists.txt",
+              "ToolTip": "C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\CMakeLists.txt",
+              "RelativeToolTip": "..\\..\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\CMakeLists.txt",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-11T16:42:05.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\scripts\\main.cpp",
+              "RelativeDocumentMoniker": "..\\..\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\scripts\\main.cpp",
+              "ToolTip": "C:\\Users\\Resul Arslan\\Desktop\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\scripts\\main.cpp",
+              "RelativeToolTip": "..\\..\\\u015Eifreler ve \u00D6zeller\\C\u002B\u002B\\SuperMarioBros\\scripts\\main.cpp",
+              "ViewState": "AgIAABoGAAAAAAAAAAD4vycGAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-10-11T16:38:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
